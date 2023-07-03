@@ -1,0 +1,7 @@
+django
+scrapy
+psycopg2-binary
+gunicorn
+requests
+pandas
+django-extensions
