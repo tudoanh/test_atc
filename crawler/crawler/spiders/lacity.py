@@ -71,5 +71,6 @@ class LacitySpider(CrawlSpider):
         documents[0].columns = ["Title", "Date", "Links"]
 
         council_item.add_value("documents", documents[0].to_dict(orient="records"))
+        print(council_item.load_item())
 
         return council_item.load_item()

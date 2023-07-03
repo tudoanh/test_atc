@@ -32,3 +32,7 @@ Create superuser:
 Run crawler check (Using scrapy contract)
 
 `docker compose run --rm django cd crawler/crawler && scrapy check`
+
+Sample crawled data
+
+<img src="./demo.png" />
