@@ -16,7 +16,7 @@ Example URL: https://cityclerk.lacity.org/lacityclerkconnect/index.cfm?fa=ccfi.v
 
 ## How to do it
 
-Using Django for database modeling and convinient admin site, Scrapy for data crawling, Postgres for Database, and Dockerize everything :D
+Using Django for database modeling and convenient admin site, Scrapy for data crawling, Postgres for Database, and Dockerize everything :D
 
 
 ## Up and running
